@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/yashchitale96/real-time-chat-application.git"
   },
-  "type":"module",
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -28,5 +28,8 @@
     "mongoose": "^8.18.2",
     "nodemon": "^3.1.10",
     "socket.io": "^4.8.1"
+  },
+  "devDependencies": {
+    "daisyui": "^5.1.25"
   }
 }
